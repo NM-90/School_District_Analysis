@@ -27,7 +27,7 @@ Python
 
   Further analysis could: 
 
-    -Pull the top three school score vs the lowest 3 school score. 
+    -Pull the top three school scores vs the lowest 3 school scores. 
     
     -Correlate the school budgets with reading/math scores. 
 
